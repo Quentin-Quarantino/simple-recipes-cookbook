@@ -12,7 +12,7 @@ authors:
 
 # Lahmacun - Türkische Pizza
 
-![](https://via.placeholder.com/1280x480)
+![Lahmacun](/static/lahmacun.jpg)
 
 ||| Zeit
 2 Stunden

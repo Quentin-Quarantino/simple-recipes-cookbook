@@ -3,7 +3,7 @@ locale: de
 edit:
   repo: github.com/Quentin-Quarantino/simple-recipes-cookbook/edit
   base: /src
-  label: "Rediger denne siden"
+  label: "Diese Seite bearbeiten"
 input: ./src
 output: ./docs
 branding:
