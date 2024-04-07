@@ -4,8 +4,7 @@ tag:
   - AeroPress
   - coffee
 category:
-  - dessert
-  - bakst
+  - coffee
 authors:
   - name: "Cedrick Z"
     link: "https://github.com/Quentin-Quarantino"
