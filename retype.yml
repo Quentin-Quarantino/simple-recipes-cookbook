@@ -1,7 +1,7 @@
-url: mere.eirik.re/
+url: Quentin-Quarantino.github.io/simple-recipes-cookbook/
 locale: no
 edit:
-  repo: github.com/engeir/simple-recipes-cookbook/edit
+  repo: github.com/Quentin-Quarantino/simple-recipes-cookbook/edit
   base: /src
   label: "Rediger denne siden"
 input: ./src
