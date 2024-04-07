@@ -28,30 +28,30 @@ category:
 authors:
   - name: "The Author"
     link: "http://example.com/"
-    avatar: ":cook:"
 ---
 
 # Title
 
 ![](https://via.placeholder.com/1280x480)
 
-||| :timer_clock: Tid
-65 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Medium
+||| Zeit
+X Minuten / Stunden
+||| Portionen
+X Personen
+||| Schwierigkeitsgrad
+Einfach / Mittel / Schwierig
 |||
 
-## Ingredienser
+## Zutaten
 
 - 2 ts pepper
 - ...
 
-## Steg
+## Anleitung
 
-1. Først ...
+1. Erstens ....
 ```
 
 **Additional context**
 Add any other context or screenshots about the recipe request here.
+
