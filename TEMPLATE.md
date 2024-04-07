@@ -5,28 +5,27 @@ tag:
 category:
  - type
 authors:
-  - name: "The Author"
-    link: "http://example.com/"
-    avatar: ":cook:"
+  - name: "Cedrick Z"
+    link: "https://github.com/Quentin-Quarantino"
 ---
 
 # Title
 
 ![](https://via.placeholder.com/1280x480)
 
-||| :timer_clock: Tid
-65 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Medium
+||| Zeit
+50 Minuten
+||| Portionen
+4 Portionen
+||| Schwierigkeitsgrad
+Einfach
 |||
 
-## Ingredienser
+## Zutaten
 
 - 2 ts pepper
 - ...
 
-## Steg
+## Anleitung
 
 1. Først ...

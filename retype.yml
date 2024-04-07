@@ -1,5 +1,5 @@
 url: Quentin-Quarantino.github.io/simple-recipes-cookbook/
-locale: no
+locale: de
 edit:
   repo: github.com/Quentin-Quarantino/simple-recipes-cookbook/edit
   base: /src
@@ -11,18 +11,13 @@ branding:
 meta:
   title: " | Dolby mat til alle"
 links:
-  - text: Emner
+  - text: Tags
     link: ./tags
     icon: tag
-  - text: Kategorier
+  - text: Kategorien
     link: ./categories
     icon: container
-  - text: Blogg
-    link: ./blog
     icon: book
-  - text: Foreslå en oppskrift
-    link: https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
-    icon: git-pull-request
 footer:
   copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"
   links:
