@@ -9,16 +9,15 @@ category:
 authors:
   - name: "Cedrick Z"
     link: "https://github.com/Quentin-Quarantino"
-    avatar: ":penguin:"
 ---
 
 # James Hoffmann's Ultimate AeroPress Recipe
 
-||| :timer_clock: Time
+||| Time
 3.20 mins
-||| :knife_fork_plate: Servings
+||| Servings
 200mL
-||| :cook: Difficulty Level
+||| Difficulty Level
 Easy
 |||
 
