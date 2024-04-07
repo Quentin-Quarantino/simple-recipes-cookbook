@@ -1,22 +1,16 @@
 ---
-description: "Dolby mat til alle"
-icon: ":hocho:"
+description: "Kochbuch / Rezeptsammlung"
 ---
 
-# Om Mere?
+# Kochbuch / Rezeptsammlung
 
 !!! success
-Om du mangler litt inspirasjon til hva du skal lage til middag, ta en titt i [!badge
-corners="pill" size="s" variant="light" text="Kategorier"](./categories) eller [!badge
-corners="pill" size="s" variant="light" text="Emner"](./tags)!
+Wenn Ihnen die Inspiration für das Abendessen fehlt, werfen Sie einen Blick auf die [!badge
+corners="pill" size="s" variant="light" text="Kategorien"](./categories) oder [!badge
+corners="pill" size="s" variant="light" text="Tags"](./tags)!
 !!!
 
 !!! warning
-Hvis du er på jakt etter noe spesielt, sjekk om jeg har lagt den inn ved å bruke
-søkefeltet øverst til høyre. Og om du ikke finner den, [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="foreslå den til meg"](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
+Wenn Sie auf der Suche nach etwas Bestimmtem sind, überprüfen Sie, ob ich es bereits hinzugefügt habe, indem Sie das Suchfeld oben rechts verwenden. Und wenn Sie es nicht finden, [!badge size="s" corners="pill"
+variant="light" iconAlign="right" text="schlagen Sie es mir vor"](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
 !!!
-
-Eventuelt kan du anmode om at en ny oppskrift legges til via et gaflet repository:
-
-[!ref icon=":rocket:" text="Hvordan bidra"](/blog/2022-5-24-hvordan-bidra.md)
