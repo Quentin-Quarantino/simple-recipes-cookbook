@@ -7,7 +7,7 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Mere?
+  title: Recipes Cookbook
 meta:
   title: " | Dolby mat til alle"
 links:
